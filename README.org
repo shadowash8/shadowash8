@@ -1,41 +1,13 @@
-#+AUTHOR: Ash 
-#+OPTIONS: toc:nil
+Hey guys, i'm here to code or tinker with random things that interest me
 
-#+BEGIN_CENTER
-*Hello There 👋*
-#+END_CENTER
+*things i believe in*
+- free and open source software
+- freedom
 
-#+BEGIN_QUOTE
-"Doing the hard things until the easy ones feel boring."
-#+END_QUOTE
-
-Hey there — I'm someone who like building, tinkering, and occasionally ranting about software, knowledge, and freedom. I don’t take myself too seriously, but I take what I *create* seriously.
-
-I'm here to:
-- Build useful, interesting, or just plain odd tools.
-
-*🛠️ What I Build (and Why)*
-- *Everyday tools* – Things that *just work*. Command-line utilities, scripts, and automation tools to simplify life.
-- *Rices* – Crafting highly functional, *beautiful* environments.
-- *Open knowledge* – Reformatting, translating, and archiving content that should be accessible to everyone.
-- *Linux-y things* – Configs, dotfiles, and tweaks to make Linux (and Windows, when necessary) more powerful and personal.
-
-*📌 Projects I’m proud of:*
-- [[https://github.com/shadowash8/dotfiles][dotfiles]] – My dotfiles.
-- [[https://github.com/shadowash8/ashdwm][ashdwm]] - My own dwm build.
-- [[https://github.com/shadowash8/ashdwl][ashdwl]] - My own dwl build.
-- [[https://github.com/shadowash8/.emacs.d][emacs]] - My emacs config.
-- [[https://github.com/shadowash8/windots][windots]] - My windows setup.
-- [[https://github.com/shadowash8/AutoVault][AutoVault]] – A simple app to store and manage information about your car(s).
-- [[https://github.com/shadowash8/obsidian-aura][obsidian-aura]] – A clean, minimal, and customizable Obsidian theme.
-
-Check out my repos for more!
-
-*💭 Things I Believe:*
-- Free and Open Source Software (FOSS) matters.
-- Emacs ~ Vim
-- Terminal > GUI (well... most of the time).
-
-#+BEGIN_CENTER
-*Thanks for visiting!*
-#+END_CENTER
+*some cool projects*
+- [[https://github.com/shadowash8/ashdwm][ashdwm]] - a build of dwm.
+- [[https://github.com/shadowash8/ashdwl][ashdwl]] - a build of dwl.
+- [[https://github.com/shadowash8/.emacs.d][emacs]] - super constructive emacs config.
+- [[https://github.com/shadowash8/organize][organize]] - a simple org and org roam view with a beautiful ui.
+- [[https://github.com/shadowash8/AutoVault][AutoVault]] – a simple app to store and manage information about your car(s).
+- [[https://github.com/shadowash8/obsidian-aura][obsidian-aura]] – a clean, minimal, and customizable Obsidian theme.
