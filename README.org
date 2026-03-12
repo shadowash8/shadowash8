@@ -7,6 +7,7 @@ hello there, i'm here to code or tinker with random things that interest me
 *some cool projects*
 - [[https://github.com/shadowash8/ashdwm][ashdwm]] - a build of dwm.
 - [[https://github.com/shadowash8/ashdwl][ashdwl]] - a build of dwl.
+- [[https://github.com/shadowash8/ashwc][ashwc]] - a try at making a wayland compositor.
 - [[https://github.com/shadowash8/.emacs.d][emacs]] - super constructive emacs config.
 - [[https://github.com/shadowash8/organize][organize]] - a simple org and org roam view with a beautiful ui.
 - [[https://github.com/shadowash8/AutoVault][AutoVault]] – a simple app to store and manage information about your car(s).
