@@ -5,10 +5,15 @@ hello there, i'm here to code or tinker with random things that interest me
 - freedom
 
 *some cool projects*
+- [[https://github.com/shadowash8/organize][organize]] - a simple org and org roam view with a beautiful ui.
+- [[https://github.com/shadowash8/AutoVault][AutoVault]] – a simple app to store and manage information about your car(s).
+- [[https://github.com/shadowash8/obsidian-aura][obsidian-aura]] – a clean, minimal, and customizable Obsidian theme.
+- [[https://github.com/shadowash8/ashwal][ashwal]] - a fast and lightweight command-line tool for generating dynamic color schemes from images. 
+
+
+*linux-iy stuff*
+- [[https://github.com/shadowash8/ashwc][ashwc]] - a take at a wlroots window manager
 - [[https://github.com/shadowash8/ashdwm][ashdwm]] - a build of dwm.
 - [[https://github.com/shadowash8/ashdwl][ashdwl]] - a build of dwl.
 - [[https://github.com/shadowash8/ashwc][ashwc]] - a try at making a wayland compositor.
 - [[https://github.com/shadowash8/.emacs.d][emacs]] - super constructive emacs config.
-- [[https://github.com/shadowash8/organize][organize]] - a simple org and org roam view with a beautiful ui.
-- [[https://github.com/shadowash8/AutoVault][AutoVault]] – a simple app to store and manage information about your car(s).
-- [[https://github.com/shadowash8/obsidian-aura][obsidian-aura]] – a clean, minimal, and customizable Obsidian theme.
