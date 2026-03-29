@@ -12,7 +12,7 @@ hello there, i'm here to code or tinker with random things that interest me
 
 
 *linux-iy stuff*
-- [[https://github.com/shadowash8/ashwc][ashwc]] - a take at a wlroots window manager
+- [[https://github.com/shadowash8/ashrwm][ashrwm]] - a working wayland window manager based on river
 - [[https://github.com/shadowash8/ashdwm][ashdwm]] - a build of dwm.
 - [[https://github.com/shadowash8/ashdwl][ashdwl]] - a build of dwl.
 - [[https://github.com/shadowash8/ashwc][ashwc]] - a try at making a wayland compositor.
