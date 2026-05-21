@@ -10,10 +10,16 @@ hello there, i'm here to code or tinker with random things that interest me
 - [[https://github.com/shadowash8/obsidian-aura][obsidian-aura]] – a clean, minimal, and customizable Obsidian theme.
 - [[https://github.com/shadowash8/ashwal][ashwal]] - a fast and lightweight command-line tool for generating dynamic color schemes from images. 
 
-
 *linux-iy stuff*
 - [[https://github.com/shadowash8/ashrwm][ashrwm]] - a working wayland window manager based on river
 - [[https://github.com/shadowash8/ashdwm][ashdwm]] - a build of dwm.
 - [[https://github.com/shadowash8/ashdwl][ashdwl]] - a build of dwl.
 - [[https://github.com/shadowash8/ashwc][ashwc]] - a try at making a wayland compositor.
 - [[https://github.com/shadowash8/.emacs.d][emacs]] - super constructive emacs config.
+
+*important*
+#+BEGIN_QUOTE
+*freedom of the users and developers is being taken away*: after september google is going to stop users from side loading applications that are not "approved" by google or the signed up and paid google for the same.
+#+END_QUOTE
+
+please support the [[https://keepandroidopen.org][keepandroidopen.org]] movement to keep this platform free for everyone.
