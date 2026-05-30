@@ -9,6 +9,7 @@ hello there, i'm here to code or tinker with random things that interest me
 - [[https://github.com/shadowash8/AutoVault][AutoVault]] – a simple app to store and manage information about your car(s).
 - [[https://github.com/shadowash8/obsidian-aura][obsidian-aura]] – a clean, minimal, and customizable Obsidian theme.
 - [[https://github.com/shadowash8/ashwal][ashwal]] - a fast and lightweight command-line tool for generating dynamic color schemes from images. 
+- [[https://github.com/shadowash8/yams][yams]] - a last.fm scrobbler for mpd (yet another mpd scrobbler)
 
 *linux-iy stuff*
 - [[https://github.com/shadowash8/ashrwm][ashrwm]] - a working wayland window manager based on river
