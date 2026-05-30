@@ -8,15 +8,17 @@ hello there, i'm here to code or tinker with random things that interest me
 - [[https://github.com/shadowash8/organize][organize]] - a simple org and org roam view with a beautiful ui.
 - [[https://github.com/shadowash8/AutoVault][AutoVault]] – a simple app to store and manage information about your car(s).
 - [[https://github.com/shadowash8/obsidian-aura][obsidian-aura]] – a clean, minimal, and customizable Obsidian theme.
-- [[https://github.com/shadowash8/ashwal][ashwal]] - a fast and lightweight command-line tool for generating dynamic color schemes from images. 
-- [[https://github.com/shadowash8/yams][yams]] - a last.fm scrobbler for mpd (yet another mpd scrobbler)
+- [[https://github.com/shadowash8/ashwal][ashwal]] - a fast and lightweight tool for generating dynamic color schemes from images. 
+- [[https://github.com/shadowash8/portfolio][portfolio]] - my good ol portfolio website made with next.js and org files.
+- [[https://github.com/shadowash8/yams][yams]] - a last.fm scrobbler for mpd (yet another mpd scrobbler).
 
 *linux-iy stuff*
-- [[https://github.com/shadowash8/ashrwm][ashrwm]] - a working wayland window manager based on river
-- [[https://github.com/shadowash8/ashdwm][ashdwm]] - a build of dwm.
-- [[https://github.com/shadowash8/ashdwl][ashdwl]] - a build of dwl.
-- [[https://github.com/shadowash8/ashwc][ashwc]] - a try at making a wayland compositor.
-- [[https://github.com/shadowash8/.emacs.d][emacs]] - super constructive emacs config.
+- [[https://github.com/shadowash8/ashrwm][ashrwm]] - a cool wayland window manager based on river
+- [[https://github.com/shadowash8/ashdwm][ashdwm]] - a extraordinary build of dwm.
+- [[https://github.com/shadowash8/ashdwl][ashdwl]] - a weird build of dwl.
+- [[https://github.com/shadowash8/ashwc][ashwc]] - a broken wayland compositor.
+- [[https://github.com/shadowash8/dotfiles][dotfiles]] - a super productive dotfiles.
+- [[https://github.com/shadowash8/.emacs.d][emacs]] - a super constructive emacs config.
 
 *important*
 #+BEGIN_QUOTE
